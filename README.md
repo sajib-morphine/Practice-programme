@@ -1,2 +1,2 @@
-# Practice-programme
-Practicing javascript
+# Python Project
+Practicing python
